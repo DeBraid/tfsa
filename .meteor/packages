@@ -5,6 +5,7 @@
 # but you can also edit it by hand.
 
 meteor-platform
-autopublish
-insecure
 iron:router
+pauli:accounts-linkedin
+ian:accounts-ui-bootstrap-3
+twbs:bootstrap
